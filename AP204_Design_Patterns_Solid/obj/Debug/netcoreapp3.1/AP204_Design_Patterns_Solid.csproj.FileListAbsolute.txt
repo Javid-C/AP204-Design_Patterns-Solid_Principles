@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.exe
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.deps.json
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.dll
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\bin\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.pdb
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.dll
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.pdb
+C:\Users\Lenovo\source\repos\AP204_Design_Patterns_Solid\AP204_Design_Patterns_Solid\obj\Debug\netcoreapp3.1\AP204_Design_Patterns_Solid.genruntimeconfig.cache
